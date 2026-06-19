@@ -20,4 +20,3 @@ class Son(Father, Uncle):
 
 tommy = Son()
 tommy.greeting()
-
