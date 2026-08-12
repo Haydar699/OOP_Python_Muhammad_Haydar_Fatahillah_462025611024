@@ -186,8 +186,8 @@ class Doctor(Person):
 
 
 # ============================================================
-# CLASS ADMIN
-# Subclass dari Person
+# CLAS ADMIN
+# Subclass dari Person 
 # ============================================================
 
 class Admin(Person):
