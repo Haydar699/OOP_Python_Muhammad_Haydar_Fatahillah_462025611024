@@ -1,0 +1,3 @@
+# Sistem Administrasi Rumah Sakit Yasyfin
+# Tidak membutuhkan library eksternal.
+# Python 3.10+
